@@ -19,6 +19,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c106bc0b-988d-4c52-997c-c2762ce7599b"
+      }
     }
   }
 }
